@@ -1,0 +1,50 @@
+.peoples-thehouse-main,
+.peoples-thehouse-main * {
+  box-sizing: border-box;
+}
+.peoples-thehouse-main {
+  background: #f7f3ef;
+  height: 1750px;
+  position: relative;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 19px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1657px;
+}
+.title-bg {
+  width: 1275px;
+  height: 220px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 91px;
+  overflow: visible;
+  aspect-ratio: 1275/220;
+}
+.houseicon-2 {
+  width: 1275px;
+  height: 1138px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 448px);
+  overflow: visible;
+  aspect-ratio: 1275/1138;
+}
+._01 {
+  width: 11.53%;
+  height: 220px;
+  position: absolute;
+  right: 64.86%;
+  left: 23.61%;
+  top: calc(50% - 43px);
+  overflow: visible;
+  aspect-ratio: 166/220;
+}
