@@ -28,11 +28,7 @@
   translate: -50%;
   top: 1657px;
 }
-.thehouseicon-group {
-  position: absolute;
-  inset: 0;
-}
- .houseicon-1 {
+.houseicon-1 {
   width: 321px;
   height: 285px;
   position: absolute;
@@ -42,19 +38,12 @@
   overflow: visible;
   aspect-ratio: 321/285;
 }
- .the-house {
+.the-house {
   color: #f7f3ef;
+  text-align: center;
   box-sizing: border-box;
   white-space: nowrap;
-  text-align: center;
   font-family: "NotoSansKr-Black", sans-serif;
   font-size: 35px;
   font-weight: 900;
-  position: absolute;
-  right: 42.85%;
-  left: 42.92%;
-  width: 14.24%;
-  bottom: 17.94%;
-  top: 79.66%;
-  height: 2.4%;
 }
